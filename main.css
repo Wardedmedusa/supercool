@@ -3,17 +3,20 @@ body {
 	font-size: medium;
 	color: rgb(0, 0, 0);
 	background-color: #99ff9e;
-	width: 50%;
-	height: 30px;	
+	width: 100%;
+	height: 30px;
+	text-align: center;	
 }
 h1 {
 	font-family: Verdana;
-	font-size: larger;
+	font-size: xx_larger;
 	color: rgb(0, 0, 0);
 	background-color: #99ff9e;
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #039;
-	width: 50%;
-	height: 30px;	
+	border-center
+	width: 10%;
+	height: 40px;	
+	text-align: center;
 }
