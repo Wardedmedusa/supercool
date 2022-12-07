@@ -1,0 +1,19 @@
+body {
+	font-family: Verdana;
+	font-size: medium;
+	color: rgb(0, 0, 0);
+	background-color: #99ff9e;
+	width: 50%;
+	height: 30px;	
+}
+h1 {
+	font-family: Verdana;
+	font-size: larger;
+	color: rgb(0, 0, 0);
+	background-color: #99ff9e;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #039;
+	width: 50%;
+	height: 30px;	
+}
