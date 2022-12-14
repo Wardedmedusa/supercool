@@ -68,3 +68,26 @@ text += "Your date text was entered as " + data + ".";
     document.getElementById("output_here3").innerHTML = text; 
 
 } 
+function myFunction4() { 
+
+    var x = document.getElementById("form4"); 
+
+    var text = ""; 
+
+    var i; 
+
+    for (i = 0; i < x.length ;i++) { 
+
+        data = x.elements[i].value; 
+
+if (data!="This submits the data to another page") { 
+
+text += "Your date text was entered as " + data + "."; 
+
+} 
+
+    } 
+
+    document.getElementById("output_here4").innerHTML = text; 
+
+} 
